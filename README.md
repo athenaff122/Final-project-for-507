@@ -4,8 +4,7 @@
 The project is mainly divided into two parts:
 <br>1) The companies in Forbes Top 2000 in 2022 are web scrapped and saved as a JSON file.
    The companies are classified into different countries, which are saved as a JSON file
-<br>2) The user can choose the company they want to know from US company list first. It is fulfilled by a search function.
-   For example, if user input "apple", all stock which has the "apple" as keyword will be returned in the list.
+<br>2) The user can choose the company they want to know from a certain industry.
 <br>3) User can decide the stock symbol base on a series of price choice.
 <br>4) Users can also choose the background information they want to know about the stock.
 <br>5) A SMA-5 and 10 days figure will be showed to help witht the trading decision.</p>
